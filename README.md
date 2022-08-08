@@ -1,6 +1,7 @@
 # Bouncing-balls
 
 A project used to test my understanding with the following concepts:
+
 - Function
 - Classes
 - Objects
